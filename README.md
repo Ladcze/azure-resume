@@ -6,5 +6,5 @@
 - main.js contains visitor counter code
 
 ## Demo site
-- You can vieew the live site via https://resume.ladcze.click
-- - The counter functions requires some tweak so it snot working on the live site (but does locally). I hope to rectify this soon. Cheers
+- You can view the live site via https://resume.ladcze.click
+- - The counter functions requires some tweak as it isn't working on the live site (but does locally). I hope to rectify this soon. Cheers
